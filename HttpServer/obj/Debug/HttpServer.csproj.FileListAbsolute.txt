@@ -1,0 +1,8 @@
+/Users/kirill/HttpServer/HttpServer/bin/Debug/HttpServer.exe
+/Users/kirill/HttpServer/HttpServer/bin/Debug/HttpServer.pdb
+/Users/kirill/HttpServer/HttpServer/obj/Debug/HttpServer.csprojResolveAssemblyReference.cache
+/Users/kirill/HttpServer/HttpServer/obj/Debug/HttpServer.csproj.CoreCompileInputs.cache
+/Users/kirill/HttpServer/HttpServer/obj/Debug/HttpServer.exe
+/Users/kirill/HttpServer/HttpServer/obj/Debug/HttpServer.pdb
+/Users/kirill/HttpServer/HttpServer/bin/Debug/Newtonsoft.Json.dll
+/Users/kirill/HttpServer/HttpServer/bin/Debug/Newtonsoft.Json.xml
